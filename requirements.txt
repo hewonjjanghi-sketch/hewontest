@@ -1,6 +1,6 @@
-streamlit
-openai-whisper
-moviepy
-ffmpeg
-torch
+streamlit 
+openai-whisper 
+moviepy 
+ffmpeg-python 
+torch 
 librosa
